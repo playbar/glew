@@ -10,7 +10,6 @@
 use strict;
 use warnings;
 
-use lib '.';
 do 'bin/make.pl';
 
 ## Output declarations for the _glewInit_[extension] functions defined

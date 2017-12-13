@@ -18,3 +18,11 @@
 /tmp
 /out
 .DS_Store*
+*.opendb
+*.db
+example/vc14/.vs/
+example/vc14/tmp/
+*.pdb
+example/bingimg/bingimg.dir/
+build/vc12/.vs/
+*.user

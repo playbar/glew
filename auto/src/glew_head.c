@@ -1,8 +1,4 @@
-#ifndef GLEW_INCLUDE
 #include <GL/glew.h>
-#else
-#include GLEW_INCLUDE
-#endif
 
 #if defined(GLEW_OSMESA)
 #  define GLAPI extern
